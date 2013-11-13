@@ -1,6 +1,6 @@
 CodeBase
 =============
-This is my not so futile ;) effort to document and save almost every piece of small to big code that I encounter in my present coding life (If there are flashes from previous life, they may find a place here too!!) 
+This is my not so futile ;) effort to document and save, almost every piece of small to big code, that I encounter in my present coding life (If there are flashes from previous ones, they may find a place here too!!) 
 
 From simple code fragments, to solutions of Problems and Interview Oriented Programming tasks, this is where it all goes in . . 
 
