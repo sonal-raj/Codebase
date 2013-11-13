@@ -7,11 +7,12 @@ From simple code fragments, to solutions of Problems and Interview Oriented Prog
 The Ultimate Code Sink . . right Here!!
 
 ==============================================================================
+
 Author : Sonal Raj
 P.S. Any Improvement to the code from the world and beyond is so very Welcome
 
-How to use Locally: #Included ad an IntelliJ idea Project
-					#Open Codebase.iml in IntelliJ
+How to use Locally: 1.Included ad an IntelliJ idea Projec
+		    2.Open Codebase.iml in IntelliJ
 					
 ==============================================================================
 Change Log
@@ -20,7 +21,7 @@ Change Log
 13-11-13 Past Codebase Added
 
 13-11-13 Added Folder PIE
-		 Contains my solutions to the Book "Programming Interviews Exposed"
-		 Language: Java
+	 Contains my solutions to the Book "Programming Interviews Exposed"
+	 Language: Java
 
 
