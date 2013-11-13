@@ -12,5 +12,11 @@ P.S. Any Improvement to the code from the world and beyond is so very Welcome
 ==============================================================================
 Change Log
 ===========
-13-11-12 Project Initiated
-13-11-12 Past Codebase Added
+13-11-13 Project Initiated
+13-11-13 Past Codebase Added
+-----------------------------
+13-11-13 Added Folder PIE
+		 Contains my solutions to the Book "Programming Interviews Exposed"
+		 Language: Java
+-----------------------------
+
