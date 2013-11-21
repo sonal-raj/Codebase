@@ -15,7 +15,7 @@ public class DynamicMedian {
      * Numbers are randomly generated and passed to a method   Write a program to find
      and maintain the median value as new values are generated
      */
-    private Comparator<Integer> maxHeapComparator, minHeapComparator;
+    //private Comparator<Integer> maxHeapComparator, minHeapComparator;
     private PriorityQueue<Integer> maxHeap, minHeap;
 
     public void addNewNumber(int randomNumber)
