@@ -8,8 +8,9 @@ The Ultimate Code Sink . . right Here!!
 
 ==============================================================================
 
-Author : Sonal Raj
-P.S. Any Improvement to the code from the world and beyond is so very Welcome
+*Author* : Sonal Raj
+
+__P.S. Any Improvement to the code from the world and beyond is so very Welcome__
 
 How to use Locally: 
 - Included ad an IntelliJ idea Projec
