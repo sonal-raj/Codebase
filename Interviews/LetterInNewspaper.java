@@ -5,6 +5,30 @@ Given a string L representing the letter and a string N representing the newspap
 The letter includes only ascii characters.
 */
 
+/* PSEUDO CODE
+
+function isLoveLetterReproducible(L, M):
+   charMap = []
+   charCount = 0
+
+   for i from 0 to L.length:
+      charCode = int(L.charAt(i)) 
+      if (charMap[charCode] == 0):
+         charCount++
+      charMap[charCode]++
+
+   for i from 0 to N.length:
+      charCode = int(N.charAt(i))
+      if (charMap[charCode] > 0):
+         charMap[charCode]--
+         if (charMap[charCode] == 0):
+            charCount--
+      if (charCount == 0):
+         return true
+
+   return false
+*/
+
 class Main {
   static public void main( String args[] ) {
     String L = args[1];
